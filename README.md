@@ -1,6 +1,6 @@
 # Library Management System
 
-A Java console based application using SQLite to manage library books, members and borrowing records.
+A Java console-based application using SQLite to manage library books, members and borrowing records.
 
 ## Features
 
@@ -33,7 +33,7 @@ A Java console based application using SQLite to manage library books, members a
 
 ## Project Structure
 
-- `Main.java` — Handles the main menu and user navigation.
-- `LibrarySystem.java` — Contains the library management operations and SQL queries.
-- `DatabaseConnection.java` — Manages database connections and initialises the database tables.
-- `library.db` — SQLite database that stores the records.
+- `Main.java` - Handles the main menu and user navigation.
+- `LibrarySystem.java` - Contains the library management operations and SQL queries.
+- `DatabaseConnection.java` - Manages database connections and initialises the database tables.
+- `library.db` - SQLite database that stores the records.
